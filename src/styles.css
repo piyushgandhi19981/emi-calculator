@@ -1,0 +1,54 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.appTitle {
+  font-size: 20px;
+}
+
+input {
+  width: 100%;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin-bottom: 12px;
+  wid
+}
+
+.title {
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.tenure-container {
+  display: flex;
+  gap: 20px;
+}
+
+.tenure {
+  padding: 8px;
+  border-radius: 8px;
+  transition: background 0.5s;
+}
+
+.active {
+  color: white;
+  background: blue;
+}
+
+.label-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.total-dp{
+  
+}
+
+.flex-me{
+  display: flex
+}
